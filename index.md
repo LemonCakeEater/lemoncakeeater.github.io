@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elden Ring
+title: Welcome
 ---
 
-Elden Ring is perhaps the greatest ARPG ever devised by man.
+A site for game reviews and creative works.
