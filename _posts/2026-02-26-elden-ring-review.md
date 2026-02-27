@@ -2,5 +2,5 @@
 layout: post
 title: Elden Ring
 ---
-
-#The Good
+![Elden Ring](/assets/images/eldenring.jpg)
+# The Good
