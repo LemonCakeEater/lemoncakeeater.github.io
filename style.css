@@ -1,0 +1,15 @@
+html, body {
+ min-height: 100vh;
+}
+.header, .main, .footer {
+ width: 100%;
+ text-align: center;
+}
+.header, .footer {
+ min-height: 2em;
+ background-color: blanchedalmond;
+}
+.main {
+ height: 100%;
+ background-color: bisque;
+}
