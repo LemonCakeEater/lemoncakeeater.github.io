@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Home
+title: Elden Ring
 ---
 
-# Hello
-
-This is my website where I share my creative works, yo.
+Elden Ring is perhaps the greatest ARPG ever devised by man.
